@@ -43,6 +43,17 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.1000"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/Csson/p5-Map-Metro-Amsterdam/issues"
+      },
+      "homepage" : "https://github.com/Csson/p5-Map-Metro-Amsterdam",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/Csson/p5-Map-Metro-Amsterdam.git",
+         "web" : "https://github.com/Csson/p5-Map-Metro-Amsterdam"
+      }
+   },
+   "version" : "0.1001"
 }
 

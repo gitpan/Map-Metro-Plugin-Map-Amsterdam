@@ -24,4 +24,8 @@ requires:
   Map::Metro: '0.1900'
   Moose::Role: '2.0000'
   perl: '5.014000'
-version: '0.1000'
+resources:
+  bugtracker: https://github.com/Csson/p5-Map-Metro-Amsterdam/issues
+  homepage: https://github.com/Csson/p5-Map-Metro-Amsterdam
+  repository: https://github.com/Csson/p5-Map-Metro-Amsterdam.git
+version: '0.1001'

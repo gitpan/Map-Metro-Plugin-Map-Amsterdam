@@ -2,7 +2,7 @@ use 5.14.0;
 
 package Map::Metro::Plugin::Map::Amsterdam;
 
-our $VERSION = '0.1000'; # VERSION
+our $VERSION = '0.1001'; # VERSION
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
