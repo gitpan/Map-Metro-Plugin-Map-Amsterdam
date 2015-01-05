@@ -2,7 +2,7 @@ use 5.14.0;
 
 package Map::Metro::Plugin::Map::Amsterdam;
 
-our $VERSION = '0.1001'; # VERSION
+our $VERSION = '0.1100'; # VERSION
 
 use Moose;
 with 'Map::Metro::Plugin::Map';
@@ -39,6 +39,14 @@ See L<Map::Metro> for usage information.
 =head1 Status
 
 As of 2015-01-01 it contains lines 50, 51, 53 and 54. See (L<wikipedia|https://en.wikipedia.org/wiki/Amsterdam_metro>).
+
+See L<Map::Metro::Plugin::Map::Amsterdam::Lines>.
+
+=begin HTML
+
+<p><a href="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Amsterdam/master/static/images/amsterdam.png"><img src="https://raw.githubusercontent.com/Csson/p5-Map-Metro-Amsterdam/master/static/images/amsterdam.png" style="max-width: 600px" /></a></p>
+
+=end HTML
 
 =head1 AUTHOR
 

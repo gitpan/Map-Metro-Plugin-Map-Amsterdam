@@ -1,5 +1,13 @@
 Revision history for Map-Metro-Plugin-Map-Amsterdam
 
+0.1100 2015-01-05T16:57:36Z CET
+ [Documentation]
+ - Added a graphviz image of the network.
+ - Added line and station documentation.
+
+ [Enhancements]
+ - Changed dist.ini to use @Iller
+
 0.1001 2015-01-02T12:33:35Z CET
  [Meta]
  - Github as repo and issue tracker.

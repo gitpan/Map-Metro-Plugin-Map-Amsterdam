@@ -59,10 +59,10 @@ Kraaiennest
 Gaasperplas
 
 --lines
-50|50|Line 50
-51|51|Line 51
-53|53|Line 53
-54|54|Line 54
+50|50|Line 50|color:#049800, width:8
+51|51|Line 51|color:#f16426, width:8
+53|53|Line 53|color:#ec2128, width:8
+54|54|Line 54|color:#ffc015, width:8
 
 --transfers
 
